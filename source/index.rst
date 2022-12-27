@@ -9,8 +9,9 @@ Welcome to Technical documentation's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   
+   Options/justcode
+   Options/justlogic
 
 Indices and tables
 ==================
