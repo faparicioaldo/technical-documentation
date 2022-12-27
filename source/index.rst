@@ -21,6 +21,13 @@ if the docs are small or larger**
 .. toctree::
    :maxdepth: 2
    :hidden:
+   :caption: Introduction:
+   
+   doc/readthedocs/info
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
    :caption: Frontend:
    
    doc/frontend/info
