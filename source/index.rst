@@ -5,6 +5,18 @@
 
 Welcome to Technical documentation's documentation!
 ===================================================
+Info description fo rhte project woth the rogth *solution*
+to create an easy to maintain documentation *it doesnt matter 
+if the docs are small or larger*
+
+Info description fo rhte project woth the rogth ``solution``
+to create an easy to maintain documentation **it doesnt matter 
+if the docs are small or larger**
+
+.. caution:: 
+   For caution, danger, tip, note, Info description fo rhte project woth the rogth ``solution``
+   to create an easy to maintain documentation **it doesnt matter 
+   if the docs are small or larger**
 
 .. toctree::
    :maxdepth: 2
@@ -21,10 +33,3 @@ Welcome to Technical documentation's documentation!
    
    Guidelines/content
    Guidelines/workflow
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
