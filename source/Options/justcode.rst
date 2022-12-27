@@ -1,10 +1,11 @@
 code demo
-===========
++++++++++++
+
 Key Goals
------------
+==========
 
 Options
------------
+==========
 
 Scratch
 ~~~~~~~~~~~
@@ -15,7 +16,7 @@ somethin
 .. image:: https://media.npr.org/assets/img/2022/05/25/gettyimages-917452888-edit_custom-c656c35e4e40bf22799195af846379af6538810c-s900-c85.webp
 
 .. image:: https://upload.wikimedia.org/wikipedia/commons/5/58/10_yr_old_Mastiff.JPG
-    
+
 Scratch
 ~~~~~~~~~~~
 
