@@ -1,4 +1,4 @@
-code demo
+workflow
 ===========
 Key Goals
 -----------

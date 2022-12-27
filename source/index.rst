@@ -8,10 +8,19 @@ Welcome to Technical documentation's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Contents:
    
    Options/justcode
    Options/justlogic
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Guidelines:
+   
+   Guidelines/content
+   Guidelines/workflow
 
 Indices and tables
 ==================
