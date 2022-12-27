@@ -21,15 +21,19 @@ if the docs are small or larger**
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Contents:
+   :caption: Frontend:
    
-   Options/justcode
-   Options/justlogic
+   doc/frontend/info
+   doc/frontend/javascript/info
+   doc/frontend/frameworks/reactjs/info
+   doc/frontend/frameworks/angular/info
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Guidelines:
+   :caption: Backend:
    
-   Guidelines/content
-   Guidelines/workflow
+   doc/backend/info
+   doc/backend/languages/java/info
+   doc/backend/frameworks/spring/info
+   
