@@ -36,3 +36,20 @@ now it should work
 
 
 https://www.youtube.com/watch?v=vFAkt_N6yuk&list=PLPDCBPbzk1AYghqYazE7Cxt3p7edml8I7&index=1
+
+
+nvchad - nvim
+  - java
+    lombok
+    telescope
+    see packages as eclipse
+oh-my-tmux - tmux
+  - create detached from files
+  - persists sessions, windows and panels
+  - 
+fzf
+lua
+
+
+
+
